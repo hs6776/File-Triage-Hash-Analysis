@@ -1,0 +1,39 @@
+Filename: sample_b.txt
+Size (bytes): 153
+Extension: .txt
+Modified: 2026-10-18 19:45:36
+SHA-256: 0682153a5a559dbbb265e02db83455d4f8ae7a0121643439055280d289c437ad
+Status: KNOWN
+
+Filename: sample_c.txt
+Size (bytes): 154
+Extension: .txt
+Modified: 2026-10-18 19:45:36
+SHA-256: 776e6bb134664392f337a18cbb3757a8a9d35a43c874b14334d77fb0e6cc359a
+Status: UNKNOWN
+
+Filename: sample_a.txt
+Size (bytes): 153
+Extension: .txt
+Modified: 2026-10-18 19:45:36
+SHA-256: 0682153a5a559dbbb265e02db83455d4f8ae7a0121643439055280d289c437ad
+Status: KNOWN
+
+Filename: sample_d.bin
+Size (bytes): 2048
+Extension: .bin
+Modified: 2026-10-18 19:45:36
+SHA-256: ebdf6e5999be272c66881adf12358e341385ec8f291cecaf293af9fb8b166c54
+Status: KNOWN
+
+Filename: sample_e.bin
+Size (bytes): 537
+Extension: .bin
+Modified: 2026-10-18 19:45:36
+SHA-256: 7676611ef9c01f00a97c51181218c37628753ede5705692a3dad54eb68c11450
+Status: UNKNOWN
+
+
+Duplicate File Summary:
+SHA-256: 0682153a5a559dbbb265e02db83455d4f8ae7a0121643439055280d289c437ad
+Duplicate files: ['sample_b.txt', 'sample_a.txt']
